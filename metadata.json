@@ -1,0 +1,6 @@
+{
+  "name": "PT Intan Samudera Agency - Shipping & Maritime Logistics Balikpapan",
+  "description": "Layanan resmi keagenan kapal (shipping agency), logistik maritim, bongkar muat kargo, bunker supply, dan crew handling di Balikpapan & koridor maritim IKN Nusantara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
